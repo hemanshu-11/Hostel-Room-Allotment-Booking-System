@@ -27,7 +27,7 @@ Project Definition: System for Allocating Hostel Rooms
 
  Any advanced search or filtering functionalities beyond simple data loading.
 
- Third.  Target Users
+ 3. Target Users
 
  The primary users of this system are individuals responsible for the day-to-day management of hostel residency:
 
