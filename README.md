@@ -3,7 +3,6 @@ A straightforward and effective desktop program for managing student reservation
 Project Definition: Hostel Room Allotment System
 System for Allocating Hostel Rooms
 
- ● Title of Project
 
  Booking and Allocation of Hostel Rooms (Tkinter/SQLite)
 
